@@ -1,0 +1,20 @@
+p{
+    font-size: 20px;
+    font-family: "Segoe Print";
+    font-weight: bold;
+    color: #D3BBF3;
+    text-align: center;
+}
+body {
+    background-color:violet;
+}
+main{
+    background-color: black;
+}
+footer{ 
+    background-color: rgb(161, 238, 238);
+}
+header {
+    background-color: rgb(161, 238, 238);
+}
+  
